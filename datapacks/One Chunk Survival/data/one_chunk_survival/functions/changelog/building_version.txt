@@ -1,0 +1,16 @@
+
+Name: (NOME PROGETTO)
+
+Edition: (NOME EDIZIONE JAVA EDITION O BEDROCK EDITION)
+
+Release: (VERSIONE IN SVILUPPO) - (VERSIONE PRINCIPALE)
+
+Resource_pack: (SE IL RESOURCE PACK C'E, METTERE TRUE SE NO FALSE)
+
+Data_pack: (SE IL DATAPACK C'E, METTERE TRUE SE NO FALSE)
+
+Github_Tag: (NOME EDIZIONE,NUMERO GITHUB ES.JE-1a)
+
+Github: (URL DEL SITO SU GITHUB)
+
+Website:https://minecraft-map-building-versions.blogspot.com/
