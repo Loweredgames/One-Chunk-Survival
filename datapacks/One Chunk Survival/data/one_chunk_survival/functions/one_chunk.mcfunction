@@ -20,6 +20,10 @@ scoreboard objectives add One_Chunck_tp dummy
 scoreboard objectives add One_Chunk_Survival minecraft.custom:minecraft.play_time
 
 
+##Scoreboard Loop
+execute as @a[scores={One_Chunk_Survival=900000000..}] run scoreboard players set @a One_Chunk_Survival 10000
+
+
 ##Gamerules Setup
 gamerule reducedDebugInfo false
 gamerule enderPearlsVanishOnDeath true
