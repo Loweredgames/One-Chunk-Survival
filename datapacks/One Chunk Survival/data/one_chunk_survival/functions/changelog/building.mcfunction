@@ -14,7 +14,7 @@ bossbar set building name {"text":"JE-1.20.2-One_Chunk_Survival:BUILDING:21.10.2
 
 #Map Progress
 
-bossbar set minecraft:building value 90
+bossbar set minecraft:building value 95
 
 #Warning Message
 
