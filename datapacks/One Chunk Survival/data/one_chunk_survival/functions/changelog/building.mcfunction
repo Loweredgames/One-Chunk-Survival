@@ -10,11 +10,11 @@ bossbar set minecraft:building max 100
 
 #Version Number
 
-bossbar set building name {"text":"nome-edizione,numero versione di Minecraft stabile,numero versione di Minecraft snapshots,nome_progetto:BUILDING:giorno,mese,anno,correzioni,versione-aggiuntiva-con-numero","color":"white","bold":true}
+bossbar set building name {"text":"JE-1.20.2-One_Chunk_Survival:BUILDING:21.10.2023a","color":"white","bold":true}
 
 #Map Progress
 
-bossbar set minecraft:building value 0
+bossbar set minecraft:building value 90
 
 #Warning Message
 

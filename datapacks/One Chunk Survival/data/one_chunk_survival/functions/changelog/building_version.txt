@@ -1,16 +1,16 @@
 
-Name: (NOME PROGETTO)
+Name: One Chunk Survival
 
-Edition: (NOME EDIZIONE JAVA EDITION O BEDROCK EDITION)
+Edition: JAVA EDITION
 
-Release: (VERSIONE IN SVILUPPO) - (VERSIONE PRINCIPALE)
+Release: JE-1.20.2-One_Chunk_Survival:BUILDING:21.10.2023a - (VERSIONE PRINCIPALE)
 
-Resource_pack: (SE IL RESOURCE PACK C'E, METTERE TRUE SE NO FALSE)
+Resource_pack: FALSE
 
-Data_pack: (SE IL DATAPACK C'E, METTERE TRUE SE NO FALSE)
+Data_pack: TRUE
 
-Github_Tag: (NOME EDIZIONE,NUMERO GITHUB ES.JE-1a)
+Github_Tag: 1.20.2_JE-0a
 
-Github: (URL DEL SITO SU GITHUB)
+Github:https://github.com/Loweredgames/One-Chunk-Survival
 
 Website:https://minecraft-map-building-versions.blogspot.com/
