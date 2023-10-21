@@ -18,7 +18,7 @@ _Alex and Steve were suddenly trapped in a 16x16 area (called chunck). who did i
 - all dimensions is available (End is broken for now but will be fixed)
 - custom structures
 
-#Versions: from 1.20.2 to Future Release...
+# Versions: from 1.20.2 to Future Release...
 
 READ THE LICENZE BEFORE DOWNLOADING THE DATAPACK:
 https://github.com/Loweredgames/One-Chunk-Survival/blob/main/LICENSE
